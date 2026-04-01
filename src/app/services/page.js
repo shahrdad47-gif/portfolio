@@ -25,7 +25,7 @@ const services = [
   {
     icon: '📊',
     title: 'Performance Optimization',
-    desc: 'Diagnose and fix slow systems. Database query rewrites, Redis caching, CDN setup, and code profiling. I've cut load times by 60% and query times from 4s to 200ms.',
+    desc: "Diagnose and fix slow systems. Database query rewrites, Redis caching, CDN setup, and code profiling. I've cut load times by 60% and query times from 4s to 200ms.",
     tags: ['Redis', 'PostgreSQL', 'MongoDB', 'AWS CloudFront', 'Profiling'],
   },
   {
