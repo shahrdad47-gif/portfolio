@@ -5,21 +5,21 @@ export const metadata = {
 
 const projects = [
   {
+    name: 'NexShop — Full-Stack E-Commerce Store',
+    date: '2026',
+    desc: 'Premium tech e-commerce store built with Next.js 16, Neon Postgres, Drizzle ORM, and Stripe. Features 26 curated products across 6 categories, cart with cookie persistence, Stripe Checkout, webhook-driven order fulfilment, and an admin dashboard. Deployed to Vercel.',
+    tags: ['Next.js 16', 'React 19', 'TypeScript', 'Drizzle ORM', 'Neon Postgres', 'Stripe', 'Tailwind CSS', 'Vercel'],
+    github: 'https://github.com/shahrdad1/nexshop',
+    demo: 'https://nexshop-eta.vercel.app',
+    highlight: true,
+  },
+  {
     name: 'CineVault — Movie Discovery App',
     date: '2025',
     desc: 'Full-stack movie discovery platform built with Next.js 14. Features a hero slider, movie cards with live TMDB data, user authentication (NextAuth.js + JWT), watchlist, and a 1–10 star rating system. Backed by Prisma + SQLite with full REST API.',
     tags: ['Next.js', 'React', 'Prisma', 'NextAuth.js', 'SQLite', 'Tailwind CSS', 'TMDB API'],
     github: 'https://github.com/shahrdad1/cinevault',
-    demo: null,
-    highlight: true,
-  },
-  {
-    name: 'YouTube Clone',
-    date: '2025',
-    desc: 'Full-stack YouTube clone with Google OAuth, JWT auth, video upload, Shorts, subscriptions, likes, and search. Built with React, Node.js, Express, and MongoDB.',
-    tags: ['React', 'Node.js', 'MongoDB', 'JWT', 'Google OAuth', 'Express'],
-    github: 'https://github.com/shahrdad/youtube-clone',
-    demo: null,
+    demo: 'https://cinevault-zeta.vercel.app',
     highlight: true,
   },
   {
